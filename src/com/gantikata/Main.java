@@ -39,5 +39,6 @@ public class Main {
         data.masukkanKalimat();
         String hasil = data.mengubahKalimat();
         data.tampilKalimat(hasil);
+        System.out.println("Developed by : Ivan Faathirza");
     }
 }
